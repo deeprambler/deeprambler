@@ -1,0 +1,7 @@
+- 👋 Hi, My name is Sabuhi , I am 24 years old .I recently graduated in Economic sciences:Business Administration and Management. 
+- But after a while the Front-end started to attract me more, from childhood I used to wonder and study software related things.
+- Now i want to learn frontend and i am learning...
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning HTML , Css , JavaScript , Node.js , jQuery ...
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach me with email:sabuhiakbarzade4@gmail.com and instagram:[instagram.com/akbarzadesbh/](https://www.instagram.com/akbarzadesbh/).
